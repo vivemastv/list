@@ -1,1 +1,7 @@
-ola
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="#######-LATINOS-#######" tvg-logo="" group-title="",#######-LATINOS-#######
+http://158.69.127.19:8000/live/ekotekot/123456/6921.ts
+#EXTINF:-1 tvg-ID="A&E (Andes)" tvg-name="A&E" tvg-logo="http://158.69.127.19/oscuros/ae.png" group-title="LATINOS",A&E
+http://158.69.127.19:8000/live/ekotekot/123456/6821.ts
+#EXTINF:-1 tvg-ID="AXN (Andes)" tvg-name="AXN" tvg-logo="http://158.69.127.19/oscuros/axn.png" group-title="LATINOS",AXN
+http://158.69.127.19:8000/live/ekotekot/123456/6818.ts
