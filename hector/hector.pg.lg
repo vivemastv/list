@@ -1,2 +1,3 @@
-
+#EXTM3U
+#EXTINF:0,TV
 http://portal.geniptv.com:8080/get.php?username=hector.ad2&password=zaDNr1PrDn&type=m3u&output=ts
